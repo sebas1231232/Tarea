@@ -173,3 +173,18 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: 100;
 }
+
+
+.footer{
+    background-color: black;
+    width: 100%;
+    float: left;
+}
+.footer a{
+    text-decoration: none;
+    padding: 14px 16px;
+    font-size: 25px;
+    color: white;
+    display: inline-block;
+    text-align: center;
+}
